@@ -6,7 +6,7 @@
 This route show home page where we have heading, navbar and some contents.
 
 2) 'services'
-This route show service page where we have heading "Services Page".
+This route show service page where we have heading, navbar and list of services.
 
 3) 'about'
 This route show about us page where where we have heading, navbar and some contents.
