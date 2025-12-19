@@ -2,16 +2,16 @@
 
 ## Routes (http://localhost:3000)
 
-1) 'home' or '/'
+1) '/home' or '/'
 This route show home page where we have heading, navbar and some contents.
 
-2) 'services'
+2) '/services'
 This route show service page where we have heading, navbar and list of services.
 
-3) 'about'
+3) '/about'
 This route show about us page where where we have heading, navbar and some contents.
 
-4) 'contact'
+4) '/contact'
 This route show contact us page  where we have heading, navbar and email address to contact.
 
 4) '/anyotherroute'
