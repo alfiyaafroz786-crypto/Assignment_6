@@ -1,6 +1,6 @@
 # Simple Node Server
 
-## Routes (http://localhost:4000)
+## Routes (http://localhost:3000)
 
 1) 'home' or '/'
 This route show home page where we have heading, navbar and some contents.
